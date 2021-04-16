@@ -21,7 +21,7 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/godwin-yung-phd-1b8bb133/
 organizations:
-  - name: Genentech, South San Francisco, CA
+  - name: Genentech, CA
     url: roche.com
 education:
   courses:
@@ -34,7 +34,7 @@ education:
     - course: BA in Mathematics
       institution: Reed College
       year: 2010
-email: ""
+email: godwin.y.yung@gmail.com
 superuser: true
 highlight_name: false
 ---
