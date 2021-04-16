@@ -5,9 +5,6 @@ avatar_filename: avatar.jpeg
 bio: ""
 interests: []
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: /#contact
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/godwinyyung
@@ -40,4 +37,4 @@ highlight_name: false
 ---
 I am a statistician devoted to the use of appropriate methodology in pharmaceutical development. Since July 2020, I have been working in the Methods, Collaboration and Outreach (MCO) group at Genentech/Roche.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/curriculum_vitae.pdf" "newtab" >}}CV{{< /staticref >}}.
