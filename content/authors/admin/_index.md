@@ -14,7 +14,7 @@ social:
     link: https://twitter.com/godwinyyung
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=aCWKLeEAAAAJ&hl=en&oi=ao
   - icon: github
     icon_pack: fab
     link: https://github.com/godwinyyung
@@ -42,4 +42,4 @@ email: godwin.y.yung@gmail.com
 superuser: true
 highlight_name: false
 ---
-I am a statistician devoted to the use of appropriate methodology in pharmaceutical development. Since July 2020, I have been working in the Methods, Collaboration and Outreach (MCO) group at Genentech/Roche.
+I am a statistician devoted to improving public health through the use of appropriate methodology in pharmaceutical development. Since July 2020, I have been working in the Methods, Collaboration and Outreach (MCO) group at Genentech/Roche.
