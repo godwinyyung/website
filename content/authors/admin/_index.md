@@ -3,7 +3,11 @@ title: Godwin Yung
 role: Principal Statistical Methodologist
 avatar_filename: avatar.jpeg
 bio: ""
-interests: []
+interests:
+  - Bayesian statistics
+  - Estimands and causal inference
+  - Multiple testing
+  - Survival analysis
 social:
   - icon: twitter
     icon_pack: fab
