@@ -17,6 +17,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/godwin-yung-phd-1b8bb133/
+  - icon: cv
+    icon_pack: ai
+    link: media/resume.pdf
 organizations:
   - name: Genentech, CA
     url: roche.com
