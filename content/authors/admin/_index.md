@@ -37,4 +37,6 @@ highlight_name: false
 ---
 I am a statistician devoted to the use of appropriate methodology in pharmaceutical development. Since July 2020, I have been working in the Methods, Collaboration and Outreach (MCO) group at Genentech/Roche.
 
+<a href="files/curriculum_vitae.pdf" class="btn btn-info"><i class="fa fa-download"></i> CV</a>
+
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "../../files/curriculum_vitae.pdf" "newtab" >}}CV{{< /staticref >}}.
