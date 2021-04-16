@@ -1,7 +1,7 @@
 ---
 title: Godwin Yung
 role: Principal Statistical Methodologist
-avatar_filename: linkedin-photo.jpeg
+avatar_filename: avatar.jpeg
 bio: ""
 interests: []
 social:
