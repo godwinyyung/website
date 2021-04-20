@@ -32,7 +32,7 @@ publication_short: In *Biometrics*
 abstract: Asymptotic distributions under alternative hypotheses and their corresponding sample size and power equations are derived for nonparametric test statistics commonly used to compare two survival curves. Test statistics include the weighted log-rank test and the Wald test for difference in (or ratio of) Kaplan-Meier survival probability, percentile survival, and restricted mean survival time. Accrual, survival, and loss to follow-up are allowed to follow any arbitrary continuous distribution. We show that Schoenfeld's equation—often used by practitioners to calculate the required number of events for the unweighted log-rank test—can be inaccurate even when the proportional hazards (PH) assumption holds. In fact, it can mislead one to believe that 1:1 is the optimal randomization ratio (RR), when actually power can be gained by assigning more patients to the active arm. Meaningful improvements to Schoenfeld's equation are made. The present theory should be useful in designing clinical trials, particularly in immuno-oncology where nonproportional hazards are frequently encountered. We illustrate the application of our theory with an example exploring optimal RR under PH and a second example examining the impact of delayed treatment effect. A companion R package npsurvSS is available for download on CRAN.
 
 # Summary. An optional shortened abstract.
-summary: 
+# summary: 
 
 tags: [survival]
 
@@ -65,23 +65,23 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-- example
+# projects:
+# - example
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+# slides: example
 ---
 
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+# {{% callout note %}}
+# Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+# {{% /callout %}}
+# 
+# {{% callout note %}}
+# Create your slides in Markdown - click the *Slides* button to check out the example.
+# {{% /callout %}}
+# 
+# Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
