@@ -9,7 +9,15 @@ authors:
 - Kaspar Rufibach
 - Yue Shentu
 - admin
-- et al.
+- Michelle Casey
+- Stefan Englert
+- Feng Liu
+- Yi Liu
+- Oliver Sailer
+- Jonathan Siegel
+- Steven Sun
+- Rui Tang
+- Jiangxiu Zhou
 
 # Author notes (optional)
 author_notes:
