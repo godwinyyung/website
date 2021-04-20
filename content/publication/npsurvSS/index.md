@@ -34,15 +34,15 @@ abstract: Asymptotic distributions under alternative hypotheses and their corres
 # Summary. An optional shortened abstract.
 summary: 
 
-tags: []
+tags: [survival]
 
 # Display this page in the Featured widget?
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: Link to journal
+  url: https://onlinelibrary.wiley.com/doi/full/10.1111/biom.13196
 
 url_pdf: ''
 url_code: ''
