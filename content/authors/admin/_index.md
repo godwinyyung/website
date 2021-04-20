@@ -42,4 +42,4 @@ email: godwin.y.yung@gmail.com
 superuser: true
 highlight_name: false
 ---
-I am a statistician devoted to improving public health through the use of appropriate methodology in pharmaceutical development. Since July 2020, I have been working in the Methods, Collaboration and Outreach (MCO) group at Genentech/Roche. Success, at least to me, is not a series of accomplishments (degrees, publications, etc.), but rather a way of life, one that continually seeks a balance between intellectual, physical, emotional, and spiritual well-being. Therefore, this site is as much a blog post of my journey as it is an "academic profile".
+I am a statistician devoted to improving public health through the use of appropriate methodology in pharmaceutical development. Since July 2020, I have been working in the Methods, Collaboration and Outreach (MCO) group at Genentech/Roche.
