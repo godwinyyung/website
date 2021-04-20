@@ -26,13 +26,13 @@ publishDate: "2021-04-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: *Biometrics*
-publication_short: *Biometrics*
+publication: In *Biometrics*
+publication_short: In *Biometrics*
 
 abstract: Asymptotic distributions under alternative hypotheses and their corresponding sample size and power equations are derived for nonparametric test statistics commonly used to compare two survival curves. Test statistics include the weighted log-rank test and the Wald test for difference in (or ratio of) Kaplan-Meier survival probability, percentile survival, and restricted mean survival time. Accrual, survival, and loss to follow-up are allowed to follow any arbitrary continuous distribution. We show that Schoenfeld's equation—often used by practitioners to calculate the required number of events for the unweighted log-rank test—can be inaccurate even when the proportional hazards (PH) assumption holds. In fact, it can mislead one to believe that 1:1 is the optimal randomization ratio (RR), when actually power can be gained by assigning more patients to the active arm. Meaningful improvements to Schoenfeld's equation are made. The present theory should be useful in designing clinical trials, particularly in immuno-oncology where nonproportional hazards are frequently encountered. We illustrate the application of our theory with an example exploring optimal RR under PH and a second example examining the impact of delayed treatment effect. A companion R package npsurvSS is available for download on CRAN.
 
 # Summary. An optional shortened abstract.
-# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags: []
 
