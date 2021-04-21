@@ -26,7 +26,7 @@ social:
     link: media/resume.pdf
 organizations:
   - name: Genentech, CA
-    url: roche.com
+    url: https://www.roche.com
 education:
   courses:
     - course: PhD in Biostatistics
