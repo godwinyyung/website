@@ -12,7 +12,7 @@ authors:
   - Somnath Sarkar
 doi: 0.1016/j.cct.2021.106436
 publication: In *Contemporary Clinical Trials*
-publication_short: In *Contemporary Clinical Trials*
+publication_short: In *CCT*
 abstract: In  phase 1  dose escalation studies, dose limiting toxicities (DLTs)
   are defined as  adverse events of concern occurring during a predefined time
   window after first dosing of patients. Standard dose escalation designs, such
