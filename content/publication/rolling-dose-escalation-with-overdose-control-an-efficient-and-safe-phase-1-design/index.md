@@ -4,7 +4,12 @@ title: "Rolling dose escalation with overdose control: An efficient and safe
 publication_types:
   - "0"
 authors:
+  - Jiawen Zhu
+  - Daniel Sabanes Bove
+  - Ziwei Liao
+  - Ulrich Beyer
   - admin
+  - Somnath Sarkar
 doi: 0.1016/j.cct.2021.106436
 publication: In *Contemporary Clinical Trials*
 publication_short: In *Contemporary Clinical Trials*
